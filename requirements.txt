@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+requests
+scikit-learn
+tensorflow
+beautifulsoup4
+fake-useragent
